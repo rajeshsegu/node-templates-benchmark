@@ -1,10 +1,11 @@
-# Node.JS template engines benchmark for performance
+# Node.JS template engines benchmark
+
 
 
 ## Results
 
-Rendering 100000 templates:
-
+###Rendering 100000 templates:
+<pre>
 Generating ECT templates....
 3132ms
 Generating Gaikan templates....
@@ -98,6 +99,8 @@ Sorted by latest
   escaped:   11578
   unescaped: 5982
   total:     17560
+  
+</pre>  
 
 ## Usage
 
